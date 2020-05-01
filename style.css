@@ -1,0 +1,52 @@
+body {
+    background-color: green;
+}
+#menu ul li {
+    display: inline;
+    margin-left: 12em;
+    padding-left: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: yellow;
+}
+
+#inicio {
+    background-color: blue;
+    text-align: center;
+    font-family: fantasy;
+    font-size: x-large; 
+    color: white;
+    padding-left: 1em;
+}
+
+#sobre {
+    color: white;
+    text-align: center;
+    text-shadow: blue;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#baixe {
+    font-size: 50px;
+    font-family: initial;
+    text-align: center;
+    color: white;
+
+}
+
+#botao {
+    text-align: center;
+}
+
+.button {
+    color: blue;
+}
+
+h5 {
+    text-align: right;
+    margin-right: 1em;
+}
+
